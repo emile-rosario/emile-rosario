@@ -2,8 +2,8 @@
 <h3 align="center">Estudiante de Ingeniería de Software | Desarrollador Web Freelance</h3>
 
 <p align="center">
-  <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:emilerosario4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emile-rosario-36548636b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
@@ -52,15 +52,15 @@ Soy estudiante de <strong>Ingeniería de Software</strong> en <strong>UNAPEC</st
 </div>
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO_GITHUB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  <a href="https://github.com/emile-rosario">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emile-rosario&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emile-rosario&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
 </div>
 
 <br>
 <br>
 
-- 📫 Contacto: **TU_CORREO@gmail.com**
+- 📫 Contacto: **emilerosario4@gmail.com**
 
 <p align="center"> </p>
